@@ -1,0 +1,258 @@
+body{
+    background-color:  lightgray;
+    zoom: 80%;
+}
+#geral{
+    height: 4000px;
+    width: auto;
+
+}
+#centro{
+    background-color: #00263a;
+    width: 1300px;
+    height: 4000px;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: -100px;
+}
+#branco{
+    background-color: white;
+}
+#linhasonic{
+    display: flex;
+    margin-top: -11px;
+}
+#sonic{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+#sonic2{
+    display: flex;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+#sonic3{
+    display: flex;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+#sonic4{
+    display: flex;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+#sonic5{
+    display: flex;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+
+#nome{
+    border: solid 8px white;
+    display: flex;
+    text-align: center;
+    font-size: 100px;
+    justify-content: space-around;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#idade{
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+    font-size: 60px;
+    justify-content: space-around;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
+#linha1{
+    display: flex;
+}
+#info{
+    margin-top: 250px;
+    margin-left: 50px;
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    justify-content: left;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
+#if{
+    display: flex;
+    justify-content: right;
+    width: 1300px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: auto;
+}
+#linha2{
+    display: flex;
+}
+#info2{
+    margin-top: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    justify-content: center;
+    color: white;
+    font-family: 'Varela Round', sans-serif; 
+}
+#linha3{
+    display: flex;
+    margin-top: 100px;
+}
+#filme1{
+    display: flex;
+    margin-left: 100px;
+    height: 261px;
+    width: 193px;
+}
+#filme2{
+    display: flex;
+    margin-left: 50px;
+    height: 261px;
+    width: 193px;
+}
+#filme3{
+    display: flex;
+    margin-left: 50px;
+    height: 261px;
+    width: 193px;
+}
+#filme4{
+    display: flex;
+    margin-left: 50px;
+    height: 261px;
+    width: 193px;
+}
+#filme5{
+    display: flex;
+    margin-left: 50px;
+    height: 261px;
+    width: 193px;
+}
+#info3{
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    justify-content: center;
+    color: white;
+    font-family: 'Varela Round', sans-serif; 
+}
+#linha5{
+    display: flex;
+    margin-top: 100px;
+}
+#jogo1{
+    display: flex;
+    margin-left: 30px;
+    height: 261px;
+    width: 193px;
+}
+#jogo2{
+    display: flex;
+    margin-left: 30px;
+    height: 261px;
+    width: 193px;
+}
+#jogo3{
+    display: flex;
+    margin-left: 50px;
+    height: 261px;
+    width: 193px;
+}
+#jogo4{
+    display: flex;
+    margin-left: 30px;
+    height: 261px;
+    width: 193px;
+}
+#jogo5{
+    display: flex;
+    margin-left: 70px;
+    height: 251px;
+    width: 153px;
+}
+#piada{
+    margin-top: 200px;
+    margin-left: 50px;
+    display: flex;
+    text-align: center;
+    font-size: 70px;
+    justify-content: left;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
+#gif{
+    display: flex;
+    justify-content: center;
+    width: 700px;
+    height: 700px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+#linhamario{
+    display: flex;
+    background-color: white;
+}
+#mario{
+    display: flex;
+    margin-left: 50px;
+    justify-content: center;
+    margin-top: 9px;
+    height: 150px;
+    width: 150px;
+}
+#mario2{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 9px;
+    height: 150px;
+    width: 150px;
+}
+#mario3{
+    display: flex;
+    margin-left: 100px;
+    justify-content: center;
+    margin-top: 9px;
+    height: 150px;
+    width: 150px;
+}
+#mario4{
+    display: flex;
+    margin-left: 100px;
+    justify-content: center;
+    margin-top: 9px;
+    height: 150px;
+    width: 150px;
+}
+#mario5{
+    display: flex;
+    margin-left: 100px;
+    justify-content: center;
+    margin-top: 9px;
+    height: 150px;
+    width: 150px;
+}
